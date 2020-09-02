@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "415459a27211219cf3659efac5117317",
+    "revision": "ad0abdf846c9ca8957e99b345ae93612",
     "url": "./index.html"
   },
   {
-    "revision": "67789932f6ef9996255c",
-    "url": "./static/css/main.0c46cdaf.chunk.css"
+    "revision": "cdad4db1452f67af898e",
+    "url": "./static/css/main.3fd82b13.chunk.css"
   },
   {
-    "revision": "5a86b7181827915d5423",
-    "url": "./static/js/2.510af091.chunk.js"
+    "revision": "6825ae64555922b55cea",
+    "url": "./static/js/2.9866f1ac.chunk.js"
   },
   {
     "revision": "c87550333da8df8ab4c80bd1d6e9defb",
-    "url": "./static/js/2.510af091.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.9866f1ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67789932f6ef9996255c",
-    "url": "./static/js/main.5be4b7e0.chunk.js"
+    "revision": "cdad4db1452f67af898e",
+    "url": "./static/js/main.033664d6.chunk.js"
   },
   {
     "revision": "18c309d16c6c37590b3f",
@@ -60,6 +60,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/footer-sm.c70b666c.svg"
   },
   {
+    "revision": "d20b45837fe793ac76b8271696d12d13",
+    "url": "./static/media/undraw_Beer_celebration_cefj.d20b4583.svg"
+  },
+  {
+    "revision": "b4ef6ec445ac4cfa4ec05ff5125f7feb",
+    "url": "./static/media/undraw_JavaScript_frameworks_8qpc.b4ef6ec4.svg"
+  },
+  {
     "revision": "2aa9d48fb0f63733d78b4e637f5102a6",
     "url": "./static/media/undraw_calendar_dutt.2aa9d48f.svg"
   },
@@ -68,16 +76,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/undraw_code_review_l1q9.62754a97.svg"
   },
   {
+    "revision": "02623b7c54a4ed5c74405345bc22961b",
+    "url": "./static/media/undraw_confirmation_2uy0.02623b7c.svg"
+  },
+  {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "./static/media/undraw_developer_activity_bv83.59389695.svg"
+  },
+  {
+    "revision": "3aaaa55cb40578802817dfb850459360",
+    "url": "./static/media/undraw_portfolio_website_lidw.3aaaa55c.svg"
   },
   {
     "revision": "e56ab6de71d19f2fac0f12a7fadb588d",
     "url": "./static/media/undraw_react_y7wq.e56ab6de.svg"
   },
   {
+    "revision": "dd2288fc6be04bcbf8fda8efc830ea0f",
+    "url": "./static/media/undraw_setup_analytics_8qkl.dd2288fc.svg"
+  },
+  {
     "revision": "c072f08dade31e501af2a7d318ad6063",
     "url": "./static/media/undraw_static_website_0107.c072f08d.svg"
+  },
+  {
+    "revision": "7600954ccde7873e2e33c2e4443ecb91",
+    "url": "./static/media/undraw_tailwind_css_1egw.7600954c.svg"
   },
   {
     "revision": "30fbb50df40be2394f9663568ab87114",
