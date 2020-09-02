@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20453431dd93e1772a7c0ec584f324fc",
+    "revision": "415459a27211219cf3659efac5117317",
     "url": "./index.html"
   },
   {
-    "revision": "0bee40f918f9de6ce1ef",
-    "url": "./static/css/main.2a11cb13.chunk.css"
+    "revision": "67789932f6ef9996255c",
+    "url": "./static/css/main.0c46cdaf.chunk.css"
   },
   {
-    "revision": "df8c4efb719b0b524351",
-    "url": "./static/js/2.0809b6b6.chunk.js"
+    "revision": "5a86b7181827915d5423",
+    "url": "./static/js/2.510af091.chunk.js"
   },
   {
     "revision": "c87550333da8df8ab4c80bd1d6e9defb",
-    "url": "./static/js/2.0809b6b6.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.510af091.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0bee40f918f9de6ce1ef",
-    "url": "./static/js/main.8a299797.chunk.js"
+    "revision": "67789932f6ef9996255c",
+    "url": "./static/js/main.5be4b7e0.chunk.js"
   },
   {
     "revision": "18c309d16c6c37590b3f",
@@ -60,7 +60,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/footer-sm.c70b666c.svg"
   },
   {
+    "revision": "2aa9d48fb0f63733d78b4e637f5102a6",
+    "url": "./static/media/undraw_calendar_dutt.2aa9d48f.svg"
+  },
+  {
+    "revision": "62754a97bd86f1f7d5869a8fde33471a",
+    "url": "./static/media/undraw_code_review_l1q9.62754a97.svg"
+  },
+  {
+    "revision": "59389695208d7454c6607bed51ed4316",
+    "url": "./static/media/undraw_developer_activity_bv83.59389695.svg"
+  },
+  {
+    "revision": "e56ab6de71d19f2fac0f12a7fadb588d",
+    "url": "./static/media/undraw_react_y7wq.e56ab6de.svg"
+  },
+  {
     "revision": "c072f08dade31e501af2a7d318ad6063",
     "url": "./static/media/undraw_static_website_0107.c072f08d.svg"
+  },
+  {
+    "revision": "30fbb50df40be2394f9663568ab87114",
+    "url": "./static/media/undraw_time_management_30iu.30fbb50d.svg"
+  },
+  {
+    "revision": "f7f12d8b700f6d8f96ca0c84a7a366e3",
+    "url": "./static/media/undraw_web_developer_p3e5.f7f12d8b.svg"
   }
 ]);
