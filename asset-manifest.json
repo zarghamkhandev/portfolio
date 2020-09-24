@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.3fd82b13.chunk.css",
-    "main.js": "./static/js/main.991ea846.chunk.js",
-    "main.js.map": "./static/js/main.991ea846.chunk.js.map",
+    "main.js": "./static/js/main.969128b2.chunk.js",
+    "main.js.map": "./static/js/main.969128b2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.3207836a.js",
     "runtime-main.js.map": "./static/js/runtime-main.3207836a.js.map",
-    "static/js/2.fe16f865.chunk.js": "./static/js/2.fe16f865.chunk.js",
-    "static/js/2.fe16f865.chunk.js.map": "./static/js/2.fe16f865.chunk.js.map",
+    "static/js/2.18a7be6c.chunk.js": "./static/js/2.18a7be6c.chunk.js",
+    "static/js/2.18a7be6c.chunk.js.map": "./static/js/2.18a7be6c.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.9af36f84d1b51509bb8f5dead25289c1.js": "./precache-manifest.9af36f84d1b51509bb8f5dead25289c1.js",
+    "precache-manifest.161d1bfc3c0c0b041ca629fa1c7f7e5f.js": "./precache-manifest.161d1bfc3c0c0b041ca629fa1c7f7e5f.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.3fd82b13.chunk.css.map": "./static/css/main.3fd82b13.chunk.css.map",
-    "static/js/2.fe16f865.chunk.js.LICENSE.txt": "./static/js/2.fe16f865.chunk.js.LICENSE.txt",
+    "static/js/2.18a7be6c.chunk.js.LICENSE.txt": "./static/js/2.18a7be6c.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/Avenir-MediumOblique.7fc613aa.ttf",
     "static/media/asterisk-solid.svg": "./static/media/asterisk-solid.e1f3b9cb.svg",
     "static/media/background-md.svg": "./static/media/background-md.02df545e.svg",
@@ -25,6 +25,7 @@
     "static/media/undraw_code_review_l1q9.svg": "./static/media/undraw_code_review_l1q9.62754a97.svg",
     "static/media/undraw_confirmation_2uy0.svg": "./static/media/undraw_confirmation_2uy0.02623b7c.svg",
     "static/media/undraw_developer_activity_bv83.svg": "./static/media/undraw_developer_activity_bv83.59389695.svg",
+    "static/media/undraw_futuristic_interface_4q3p.svg": "./static/media/undraw_futuristic_interface_4q3p.4cc8970e.svg",
     "static/media/undraw_portfolio_website_lidw.svg": "./static/media/undraw_portfolio_website_lidw.3aaaa55c.svg",
     "static/media/undraw_react_y7wq.svg": "./static/media/undraw_react_y7wq.e56ab6de.svg",
     "static/media/undraw_server_status_5pbv.svg": "./static/media/undraw_server_status_5pbv.e52e1704.svg",
@@ -36,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3207836a.js",
-    "static/js/2.fe16f865.chunk.js",
+    "static/js/2.18a7be6c.chunk.js",
     "static/css/main.3fd82b13.chunk.css",
-    "static/js/main.991ea846.chunk.js"
+    "static/js/main.969128b2.chunk.js"
   ]
 }
